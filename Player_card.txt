@@ -1,0 +1,6 @@
+Player card:
+Profesie: Chirurg,
+Boala: \ Gonoreea,
+Fobie: Kakorrhaphiophobia - frica de a scrie sau de a vorbi în public,
+Bagaj: Are un mini spray pentru gât în geantă.,
+Caracter: \['Flexibilitatea', 'Ascultarea activă']

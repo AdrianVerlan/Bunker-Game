@@ -1,0 +1,57 @@
+Medic
+Asistent medical
+Chirurg
+Farmacist
+Tehnician de laborator medical
+Psiholog clinician
+Asistent social medical
+Fizioterapeut
+Terapeut ocupational
+Anestezist
+Fizician
+Inginer nuclear
+Inginer mecanic
+Inginer electric
+Chimist
+Matematician
+Profesor de fizică
+Cercetător
+Inginer aerospațial
+Geofizician
+Biolog
+Microbiolog
+Genetician
+Toxicolog
+Cercetător în biotehnologie
+Inginer chimist
+Inginer biotehnolog
+Nutriționist
+Inginer aeronautic
+Inginer naval
+Inginer de fabricație
+Tehnician auto
+Tehnician de echipamente mecanice
+Inginer de design mecanic
+Inginer de producție
+Inginer de testare și validare
+Lăcătuș
+Electrician
+Sudor
+Spălător auto
+Cofetar
+Infirmieră
+Lucrător la supermarket
+Curier
+Barman
+Casier
+Lucrător în fast food
+Lucrător la benzinărie
+Curățător
+Livrator de pizza
+Muncitor necalificat în construcții
+Asistent de cameră
+Bucătar
+Personal de servicii pentru clienți
+Lucrător în agricultură
+Tractorist
+Paznic

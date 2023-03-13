@@ -1,0 +1,40 @@
+Gripa
+Răceala comună
+Amigdalita
+Sinuzita
+Bronșita
+Pneumonia
+Tuberculoza
+Meningita
+Artrita
+Osteoporoza
+Guta
+Lupusul
+Diabetul zaharat
+Hipertensiunea arterială
+Boli de inimă
+Accident vascular cerebral
+Infarctul miocardic
+Boala Parkinson
+Boala Alzheimer
+Depresia
+Anxietatea
+Schizofrenia
+Bipolaritatea
+ADHD
+Autismul
+Epilepsia
+Boala celiacă
+Colita ulcerativă
+Boala Crohn
+Hepatita
+Cancerul
+Fibromialgia
+Sindromul de oboseală cronică
+SIDA
+Sifilis
+Gonoreea
+Chlamydia
+Herpesul
+HPV
+Malaria
